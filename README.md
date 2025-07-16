@@ -10,7 +10,7 @@ Este projeto realiza a resolução de sistemas lineares baseados na matriz de Le
 
 ## 📂 Arquivos
 
-- `main.py`: Código principal com todos os métodos iterativos e execuções.
+- `código_Lambda.py` e `código_EC2.py`: Código principal com todos os métodos iterativos e execuções.
 - Os arquivos de entrada (`nivel12_A.txt`, `nivel12_f.txt`, etc.) são baixados automaticamente do S3.
 
 ## 🧠 Métodos Implementados
